@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+form {
+  width: 520px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+}
